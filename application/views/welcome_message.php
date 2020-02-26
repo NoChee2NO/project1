@@ -68,7 +68,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<center><h2>Solfware Engineering</h2></center>
+	<center><h2>Noch</h2></center>
 </div>
 
 </body>
